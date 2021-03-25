@@ -2,4 +2,4 @@
 //
 
 require('./bin/main');
-
+require('./src/server');

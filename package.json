@@ -26,6 +26,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "node": "^15.10.0",
     "vue": "^2.6.12",
     "vue-class-component": "^7.2.6",
     "vue-property-decorator": "^9.1.2",
@@ -35,6 +36,7 @@
     "@types/chai": "^4.2.14",
     "@types/electron": "^1.6.10",
     "@types/mocha": "^8.2.0",
+    "@types/node": "^14.14.35",
     "@vue/cli-plugin-babel": "^4.5.9",
     "@vue/cli-plugin-typescript": "^4.5.9",
     "@vue/cli-plugin-unit-mocha": "^4.5.9",
